@@ -7,7 +7,7 @@ Don't know what Be A Builder is? Follow along here: https://trailhead.salesforce
 
 In the commands below, terms wrapped in \*asterisks\* signify places where you'll need to replace the dummy text we're providing with values that match your Salesforce DX setup.
 
-1. Authenticate into your DX hub org (if you haven't already):
+- Authenticate into your DX hub org (if you haven't already):
 	
 	```
 	sfdx force:auth:web:login -d -a *myhub* 
