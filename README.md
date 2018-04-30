@@ -15,7 +15,7 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 - Clone the repo:
 	
 	```
-	git clone https://github.com/slytherinchika/BeABuilderProjectManager
+	git clone https://github.com/slychika/Be-A-Builder
 	```
 - Create a scratch org, and provide it with an alias:
 	
@@ -35,7 +35,7 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 
 Or, deploy to SFDX using this button:
 
-[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/deploy?template=https://github.com/slytherinchika/BeABuilderProjectManager)
+[![Deploy](https://deploy-to-sfdx.com/dist/assets/images/DeployToSFDX.svg)](https://deploy-to-sfdx.com/deploy?template=https://github.com/slychika/Be-A-Builder)
 
 ## Configuration:
 
