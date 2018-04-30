@@ -1,0 +1,3 @@
+<design:component >
+	<design:attribute name="AutoSwitch" default="true" label="Disable Auto Scroll" description="Uncheck if you want to see the photos scroll." />
+</design:component>
